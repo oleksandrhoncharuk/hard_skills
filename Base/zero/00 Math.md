@@ -1,0 +1,1 @@
+https://docs.mathjax.org/en/latest/input/tex/extensions/index.html
