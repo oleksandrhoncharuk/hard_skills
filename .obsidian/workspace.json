@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "ad8e5c7d9add3f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0411c5370e3c1401",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52cb18255f912420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Garbage collector in android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c2e77c76041e811",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd7da931dd14368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebb1675c778a1a1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20c231c740db1938",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad31b71e29e9ffb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca4203a8eba0b5e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "664bfe5e159b8eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e0aa74572960d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Garbage collector in android.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "366d6fb43d6e02d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Garbage collector in android.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8273a0c835de0582",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "09ff44bec5134fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Garbage collector in android.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню швидкого переходу": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити палітру команд": false,
+      "random-note:Відкрити випадкову нотатку": false
+    }
+  },
+  "active": "52cb18255f912420",
+  "lastOpenFiles": [
+    "Base/Garbage collector in android.md",
+    "Files/circular references.jpg",
+    "Files/circular references.jpg.crdownload",
+    "Files/GC.png",
+    "Files/GC.png.crdownload",
+    "Base/java.lang.Thread Class.md",
+    "Base/Android processes and threads.md",
+    "Base/Cooperative multitasking.md",
+    "Base/zero/00 Game Theory.md",
+    "Templates/Udemy Templates.md",
+    "Files/Game+Theory+1+.pdf",
+    "Base/Preemptive multitasking system.md",
+    "Base/Multiprocessing System.md",
+    "Base/First.md",
+    "Шпора.md",
+    "Base/first.md",
+    "Base/zero/00 Math.md",
+    "Base/zero/00 Multithreading.md",
+    "Base/zero/00 Android.md",
+    "Base/zero",
+    "Base",
+    "Daily",
+    "Templates",
+    "Files"
+  ]
+}
