@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52cb18255f912420",
+            "id": "ad23f36c5997b0af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Limits intro.md",
+                "file": "Base/CS50 Lecture 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Limits intro.md",
+                "file": "Base/CS50 Lecture 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Limits intro.md",
+                "file": "Base/CS50 Lecture 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Limits intro.md"
+                "file": "Base/CS50 Lecture 0.md"
               }
             }
           }
@@ -138,41 +138,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "random-note:Открыть случайную заметку": false,
-      "graph:Граф": false
+      "switcher:Меню швидкого переходу": false,
+      "graph:Граф": false,
+      "canvas:Створити нове полотно": false,
+      "daily-notes:Сьогоднішня нотатка": false,
+      "templates:Вставити шаблон": false,
+      "command-palette:Відкрити палітру команд": false,
+      "random-note:Відкрити випадкову нотатку": false
     }
   },
-  "active": "52cb18255f912420",
+  "active": "ad23f36c5997b0af",
   "lastOpenFiles": [
-    "Base/zero/00 Math.md",
-    "Шпора.md",
-    "Base/Limits intro.md",
-    "Templates/Udemy Templates.md",
+    "Base/Estimating limit values from graphs.md",
+    "Base/CS50 Lecture 0.md",
     "Base/Garbage collector in android.md",
-    "Files/circular references.jpg",
-    "Files/circular references.jpg.crdownload",
-    "Files/GC.png",
-    "Files/GC.png.crdownload",
-    "Base/java.lang.Thread Class.md",
-    "Base/Android processes and threads.md",
-    "Base/Cooperative multitasking.md",
-    "Base/zero/00 Game Theory.md",
-    "Files/Game+Theory+1+.pdf",
-    "Base/Preemptive multitasking system.md",
+    "Base/Limits intro.md",
+    "Files/Estimating limit from graph.PNG",
+    "Files/limits notation.PNG",
+    "Files/11ab15823702ab90d5198a2dcd37d65d52627e7b.gif",
+    "Files/11ab15823702ab90d5198a2dcd37d65d52627e7b.gif.crdownload",
     "Base/Multiprocessing System.md",
+    "Base/Preemptive multitasking system.md",
+    "Base/Thread termination.md",
+    "Base/Memory Leaks in Android.md",
+    "Files/7f460d0a673f5af283702fccf1d9da7462a48a5a.gif",
+    "Files/7f460d0a673f5af283702fccf1d9da7462a48a5a.gif.crdownload",
+    "Files/f(x)=x + 2.PNG",
+    "Files/f(x)=2.PNG",
+    "Base/Career advice from GPT.md",
+    "Base/java.lang.Thread Class.md",
+    "Шпора.md",
+    "Files/ASCII.png",
+    "Files/ASCII.png.crdownload",
+    "Files/src0/src0/pet0.sb3",
+    "Files/src0/src0/pet1.sb3",
+    "Files/src0/src0/Raining Men.sb3",
+    "Files/src0/src0/hello2.sb3",
+    "Files/src0/src0/hello0.sb3",
+    "Files/src0/src0/hello1.sb3",
+    "Files/src0/src0/Oscartime.sb3",
+    "Base/zero/00 Math.md",
+    "Base/zero/00 Computer Science.md",
+    "Files/Записати.PNG",
+    "Base/Cooperative multitasking.md",
+    "Base/Android processes and threads.md",
+    "Files/Thread-Life-Cycle-in-Java.jpg",
+    "Files/ThreadLifeCycle.PNG",
+    "Base/zero/00 Game Theory.md",
+    "Templates/Udemy Templates.md",
     "Base/First.md",
     "Base/first.md",
     "Base/zero/00 Multithreading.md",
-    "Base/zero/00 Android.md",
-    "Base/zero",
-    "Base",
-    "Daily",
-    "Templates",
-    "Files"
+    "Base/zero/00 Android.md"
   ]
 }
