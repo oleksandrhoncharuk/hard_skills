@@ -1,5 +1,5 @@
 
-2023-03-29 19:24 Tags: #source Harvard #quest #lesson #summary
+2023-03-29 19:24 Tags: #source Harvard #quest #lesson #summary #toBeContinued 
 
 ## Записи з урока:
 
@@ -10,7 +10,10 @@
 - Кількість чисел які можна порахувати за допомогою лампочек, або бітів буде дорівнювати - $2^{N}$ - де N - кількість лампочек, а значення степеня це кількість станів які може приймати одна з них
 - 123(сто двадцять три) - якщо розбити по позиціям числа буде $1 * 100 + 2 * 10 + 3 *1$, тобто позиція числа визначає степінь 10 -> $1 * 10^{2} + 2 * 10^{1} + 3 * 10^{0}$ , тобто десятична система. Виходячи з цього 4 у двійковій системі буде 100 -> $1 * 2^{2} + 0 * 2^{1} + 0 * 2^{0}$
 - byte - 1 byte = 8 bit -> максимальне значення 255(11111111)
-- ASCII - American Standart Code for Information Interchange ![[ASCII.png]] 
+- ASCII - American Standart Code for Information Interchange
+- <p align="center">
+  <img src="C:\Users\oleksandr.honcharuk\Documents\hard_skills\Files\ASCII.png" width="300" height="50" backgroundColor="#FFFFFF"/>
+  </p> ![[ASCII.png]] 
 - #toBeContinued https://youtu.be/IDDmrzzB14M?t=2268
 
 ---

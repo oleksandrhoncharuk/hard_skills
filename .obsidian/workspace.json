@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/CS50 Lecture 0.md",
+                "file": "Base/One-sided limits from graph.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "df5edf17931a9489",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Files/7f460d0a673f5af283702fccf1d9da7462a48a5a.gif"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/CS50 Lecture 0.md",
+                "file": "Base/One-sided limits from graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/CS50 Lecture 0.md",
+                "file": "Base/One-sided limits from graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/CS50 Lecture 0.md"
+                "file": "Base/One-sided limits from graph.md"
               }
             }
           }
@@ -149,26 +159,39 @@
   },
   "active": "ad23f36c5997b0af",
   "lastOpenFiles": [
+    "Files/one-side limits from graph - aymptode.PNG",
+    "Files/one-side limits from graph.PNG",
+    "Files/one-side limits from graph.jpg",
+    "Base/One-sided limits from graph.md",
+    "Base/User Interface responsiveness.md",
+    "Base/Career advice from GPT.md",
+    "Base/zero/00 Career.md",
+    "Base/zero/00 Math.md",
+    "Base/Unbounded limits.md",
+    "Base/Thread termination.md",
+    "Base/UI Thread vs Background thread in Android.md",
     "Base/Estimating limit values from graphs.md",
-    "Base/CS50 Lecture 0.md",
-    "Base/Garbage collector in android.md",
+    "Base/Memory Leaks in Android.md",
     "Base/Limits intro.md",
+    "Base/Preemptive multitasking system.md",
+    "Base/Multiprocessing System.md",
+    "Files/7f460d0a673f5af283702fccf1d9da7462a48a5a.gif",
+    "Base/java.lang.Thread Class.md",
+    "Base/Garbage collector in android.md",
+    "Base/CS50 Lecture 0.md",
+    "Base/Cooperative multitasking.md",
+    "Base/Android processes and threads.md",
+    "Files/dif between limits and f value.gif",
+    "Files/dif between limits and f value.gif.crdownload",
+    "Files/unbound limit 2.PNG",
+    "Files/unbound limit 1.PNG",
     "Files/Estimating limit from graph.PNG",
     "Files/limits notation.PNG",
     "Files/11ab15823702ab90d5198a2dcd37d65d52627e7b.gif",
     "Files/11ab15823702ab90d5198a2dcd37d65d52627e7b.gif.crdownload",
-    "Base/Multiprocessing System.md",
-    "Base/Preemptive multitasking system.md",
-    "Base/Thread termination.md",
-    "Base/Memory Leaks in Android.md",
-    "Files/7f460d0a673f5af283702fccf1d9da7462a48a5a.gif",
     "Files/7f460d0a673f5af283702fccf1d9da7462a48a5a.gif.crdownload",
     "Files/f(x)=x + 2.PNG",
-    "Files/f(x)=2.PNG",
-    "Base/Career advice from GPT.md",
-    "Base/java.lang.Thread Class.md",
     "Шпора.md",
-    "Files/ASCII.png",
     "Files/ASCII.png.crdownload",
     "Files/src0/src0/pet0.sb3",
     "Files/src0/src0/pet1.sb3",
@@ -176,19 +199,11 @@
     "Files/src0/src0/hello2.sb3",
     "Files/src0/src0/hello0.sb3",
     "Files/src0/src0/hello1.sb3",
-    "Files/src0/src0/Oscartime.sb3",
-    "Base/zero/00 Math.md",
     "Base/zero/00 Computer Science.md",
-    "Files/Записати.PNG",
-    "Base/Cooperative multitasking.md",
-    "Base/Android processes and threads.md",
-    "Files/Thread-Life-Cycle-in-Java.jpg",
-    "Files/ThreadLifeCycle.PNG",
     "Base/zero/00 Game Theory.md",
     "Templates/Udemy Templates.md",
     "Base/First.md",
     "Base/first.md",
-    "Base/zero/00 Multithreading.md",
-    "Base/zero/00 Android.md"
+    "Base/zero/00 Multithreading.md"
   ]
 }

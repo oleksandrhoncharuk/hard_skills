@@ -14,7 +14,7 @@
                        - Live thrads(Active Threads) - стан потоку від виклику метода start() до закінчення методу run()
 * Threads lifecycle:
   <p align="center">
-  <img src="C:\Users\oleksandr.honcharuk\Documents\hard_skills\Files\Thread-Life-Cycle-in-Java.jpg" />
+  <img src="C:\Users\oleksandr.honcharuk\Documents\hard_skills\Files\Thread-Life-Cycle-in-Java.jpg" width="500" height="300" />
 </p>
 - ***Anonymous та Inner класи мають неявне посилання на об'екти зовнішнього класа***
 - Наприклад анонімний клас Thread в середині Актівіті буду тримати посилання на обект Актівіті, тому Актівіті не може бути знищена GC поки тред знаходиться в стані Active. Те саме і для внутрішнього класу Thread
