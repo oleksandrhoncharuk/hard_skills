@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Метанавчання.md",
+                "file": "Base/Фокусування.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6eaa04fc1d55da79",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
               }
             }
           }
@@ -64,6 +74,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ad5dddf6b3556df5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Метанавчання.md",
+                "file": "Base/Фокусування.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Метанавчання.md",
+                "file": "Base/Фокусування.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Метанавчання.md"
+                "file": "Base/Фокусування.md"
               }
             }
           }
@@ -138,19 +156,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню швидкого переходу": false,
+      "switcher:Відкрити провідник файлів": false,
+      "command-palette:Відкрити меню команд": false,
       "graph:Граф": false,
       "canvas:Створити нове полотно": false,
       "daily-notes:Сьогоднішня нотатка": false,
       "templates:Вставити шаблон": false,
-      "command-palette:Відкрити палітру команд": false,
       "random-note:Відкрити випадкову нотатку": false
     }
   },
-  "active": "ebb1675c778a1a1c",
+  "active": "ad23f36c5997b0af",
   "lastOpenFiles": [
-    "Шпора.md",
     "Base/Метанавчання.md",
+    "Base/Фокусування.md",
+    "Шпора.md",
     "Base/Covariance and Contrvariance.md",
     "Base/zero/00 Books.md",
     "Base/zero/00 Java.md",
@@ -178,7 +197,6 @@
     "Base/Garbage collector in android.md",
     "Base/CS50 Lecture 0.md",
     "Base/Cooperative multitasking.md",
-    "Base/Android processes and threads.md",
     "Files/dif between limits and f value.gif",
     "Files/dif between limits and f value.gif.crdownload",
     "Files/unbound limit 2.PNG",
